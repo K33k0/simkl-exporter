@@ -1,0 +1,13 @@
+﻿# Local account data and exports
+private/
+exports/
+logs/
+metadata-cache/
+*.log
+*.zip
+.env
+.env.*
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
